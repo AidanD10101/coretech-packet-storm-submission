@@ -13,7 +13,6 @@ void Menu::print() {
     // This method prints the menu for the application using std::cout
     // ---------------------------------------------------------------------------------------------------------------------------
     //
-    system("clear");
     std::cout << "\n";
     std::cout << "===== Aidan's coretech solution =====\n";
     std::cout << "1. Display packet occurrences in ascending order\n";
